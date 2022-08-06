@@ -1,0 +1,82 @@
+---
+name: "final"
+dataIns:
+- name: "s"
+  type: "string"
+  source: "s"
+- name: "p"
+  type: "string"
+  source: "p"
+- name: "m"
+  type: "number"
+  source: "m"
+- name: "w"
+  type: "number"
+  source: "w"
+workflowBody:
+- function:
+    name: "splited"
+    type: "splited"
+    dataIns:
+    - name: "original_string"
+      type: "string"
+      source: "final/s"
+    dataOuts:
+    - name: "array"
+      type: "collection"
+- parallelFor:
+    name: "for_each_count"
+    dataIns:
+    - name: "interator_count"
+      type: "collection"
+      source: "splited/array"
+    iterators: ["interator_count"]
+    loopBody:
+    - function:
+        name: "count_of_pattern"
+        type: "count_of_pattern"
+        dataIns:
+        - name: "string_array"
+          type: "collection"
+          source: "for_each_count/interator_count"
+        - name: "pattern"
+          type: "string"
+          source: "final/p"
+        dataOuts:
+        - name: "count_array"
+          type: "collection"
+        - name: "count_of_pattern"
+          type: "number"
+    - parallelFor:
+        name: "for_each_remove"
+        dataIns:
+        - name: "interator_remove"
+          type: "collection"
+          source: "splited/array"
+        iterators: ["interator_remove"]
+        loopBody:
+        - function:
+            name: "remove"
+            type: "remove"
+            dataIns:
+            - name: "string_array"
+              type: "collection"
+              source: "for_each_remove/interator_remove"
+            - name: "pattern"
+              type: "string"
+              source: "final/p"
+            - name: "m"
+              type: "number"
+              source: "final/m"
+            - name: "count_of_pattern"
+              type: "number"
+              source: "count_of_pattern/count_of_pattern"
+            dataOuts:
+            - name: "final_array"
+              type: "collection"
+        dataOuts:
+        - name: "final_array_remove"
+          type: "collection"
+          source: "remove/final_array"
+    dataOuts: []
+dataOuts: []

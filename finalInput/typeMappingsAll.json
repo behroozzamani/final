@@ -1,0 +1,53 @@
+[
+    {
+        "functionType": "splited",
+        "resources": [
+            {
+                "type": "Local",
+                "properties": {
+                    "Image": "radvin1356/splited"
+                }
+            },
+            {
+                "type": "Serverless",
+                "properties": {
+                    "Uri": "https://amb2b06ii2.execute-api.us-east-1.amazonaws.com/splited"
+                }
+            }
+        ]
+    },
+    {
+        "functionType": "count_of_pattern",
+        "resources": [
+            {
+                "type": "Local",
+                "properties": {
+                    "Image": "radvin1356/count_of_pattern"
+                }
+            },
+            {
+                "type": "Serverless",
+                "properties": {
+                    "Uri": "https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern"
+                }
+            }
+        ]
+    },
+    {
+        "functionType": "remove",
+        "resources": [
+            {
+                "type": "Local",
+                "properties": {
+                    "Image": "radvin1356/remove"
+                }
+            },
+            {
+                "type": "Serverless",
+                "properties": {
+                    "Uri": "https://4rsf9d6cjh.execute-api.us-east-1.amazonaws.com/remove"
+                }
+            }
+        ]
+    }
+]

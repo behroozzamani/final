@@ -1,0 +1,54 @@
+---
+name: "splited_workflow"
+dataIns:
+- name: "s"
+  type: "string"
+  source: "s"
+workflowBody:
+- function:
+    name: "splited"
+    type: "splited"
+    dataIns:
+    - name: "original_string"
+      type: "string"
+      source: "splited_workflow/s"
+    dataOuts:
+    - name: "array"
+      type: "collection"
+- parallelFor:
+    name: "for_each_count"
+    dataIns:
+    - name: "interator_count"
+      type: "collection"
+      source: "splited/array"
+    iterators: ["interator_count"]
+    loopBody:
+    - function:
+        name: "count_of_pattern"
+        type: "count_of_pattern"
+        dataIns:
+        - name: "string_array"
+          type: "collection"
+          source: "for_each_count/interator_count"
+        - name: "pattern"
+          type: "number"
+          source: "pattern"
+        dataOuts:
+        - name: "count_array"
+          type: "collection"
+        - name: "count_of_pattern"
+          type: "number"
+    dataOuts:
+    - name: "count_array"
+      type: "collection"
+      source: "count_of_pattern/count_array"
+    - name: "count_of_pattern"
+      type: "collection"
+      source: "count_of_pattern/count_of_pattern"
+dataOuts:
+- name: "array"
+  type: "collection"
+  source: "for_each_count/count_array"
+- name: "count_of_pattern"
+  type: "collection"
+  source: "for_each_count/count_of_pattern"

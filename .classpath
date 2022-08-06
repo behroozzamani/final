@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/"/>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Core/master-SNAPSHOT/7524cb0a44bd9c3cc2aa4462c496f5b8101acf6/EE-Core-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Core/master-SNAPSHOT/5640d499e28b0c994f3ec1234f0c2a81c5670fd4/EE-Core-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Guice/main-SNAPSHOT/45b5b3f7f103960c7a96f496070398c57170ba23/EE-Guice-main-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Guice/main-SNAPSHOT/bda6e751f1325a4d34ef5114be2a007449f4450f/EE-Guice-main-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Model/main-SNAPSHOT/dbabf233c920abc3ea5597d7fb615b75dd165dde/EE-Model-main-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Model/main-SNAPSHOT/d84062aeba595583d7a6895eb7508c89639269fd/EE-Model-main-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-IO/main-SNAPSHOT/5dc34d0aadc0312e820cc045b8e0ad24579ed2f5/EE-IO-main-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-IO/main-SNAPSHOT/f363db762eecbf1f89ba7c612c29ccc7c1a4edf6/EE-IO-main-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Enactables/master-SNAPSHOT/bcbdd88d73466d47dbe603850df7dd8526485ae2/EE-Enactables-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Enactables/master-SNAPSHOT/debe2aec195e6697434fb1250025417bab60e22c/EE-Enactables-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Control/master-SNAPSHOT/4193d34214564d305cf1e4e495112da2d84479ba/EE-Control-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Control/master-SNAPSHOT/64a0c316a53c6c1a82497a2b9885647c849c7d47/EE-Control-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/SC-Core/main-SNAPSHOT/362e9fe5c276b658775aad509b74852411a58e99/SC-Core-main-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/SC-Core/main-SNAPSHOT/58cb7ceaccdfed3b8e62156ecd0eea72a11dd35b/SC-Core-main-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Visualization/master-SNAPSHOT/78b263173e97baa993b344fc12cfcfcb933bf51d/EE-Visualization-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Visualization/master-SNAPSHOT/16f5d5c3c1cb4143384b24ec4babd17385bceaa7/EE-Visualization-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Docker/master-SNAPSHOT/6777647b4447c421a3680e70dc410112aed8293c/EE-Docker-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-Core/EE-Docker/master-SNAPSHOT/69a25b8969409d4dd3c7469640c97c35f0a5961c/EE-Docker-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89/opt4j/-SNAPSHOT/58d2117a1ec66c5cdf7989b1715c4ce4df09eb32/opt4j--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89/opendse/-SNAPSHOT/52208f780933a5aa3b74add918dc2e6a1a71bff9/opendse--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/Library/-SNAPSHOT/5b482333dd9b6cdb574da1ff2339c0fc7762df16/Library--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/Library/-SNAPSHOT/5b482333dd9b6cdb574da1ff2339c0fc7762df16/Library--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-benchmarks/-SNAPSHOT/8dc3169b5c6249aa0c5b3d5661a28f1147308b51/opt4j-benchmarks--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-benchmarks/-SNAPSHOT/ccdcc3413d50957d6ee775cba0c7aede110f985c/opt4j-benchmarks--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-core/-SNAPSHOT/cac11499df04a660df5797847ad8b553e97feb59/opt4j-core--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-core/-SNAPSHOT/fb55104a0b32b26352d2b9fc482b79c86245cd6b/opt4j-core--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-operators/-SNAPSHOT/3a2d1d0e2a8890543d556a4413ed519bc9ae6006/opt4j-operators--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-operators/-SNAPSHOT/ac5c9c8d0394b27c6046a2050492b9a463db136e/opt4j-operators--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-optimizers/-SNAPSHOT/4d25b0141161afa2c1d25920d997c592ce7af03e/opt4j-optimizers--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-optimizers/-SNAPSHOT/43cedb4ccf5f4aa6fe392d6f9dc574948d755cc7/opt4j-optimizers--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-satdecoding/-SNAPSHOT/f7df0e96a04adbcf219db7fc8d081c1d1238355/opt4j-satdecoding--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-satdecoding/-SNAPSHOT/a1c0ce23e0199528d59e591f6eb8dd3bdea57c8/opt4j-satdecoding--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-tutorial/-SNAPSHOT/fd710991e1693254871745642b799a78c193ee0/opt4j-tutorial--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-tutorial/-SNAPSHOT/b5d1adc5e0de67ac8d96e004cc529294569dc4c8/opt4j-tutorial--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-viewer/-SNAPSHOT/e76983f1789dd97422d3e69d41d8990167f106ae/opt4j-viewer--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-viewer/-SNAPSHOT/cd840236cc6d946f62bc6468f57d0385628e1ab9/opt4j-viewer--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/build/-SNAPSHOT/3b8fe0fe04534c5bae0219124674b4ebb338c306/build--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-encoding/-SNAPSHOT/6b13c66f3eddcd6ca942f20648da545fca014737/opendse-encoding--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-encoding/-SNAPSHOT/224afb727958ac492ceb41b0fccd23709a33e8e1/opendse-encoding--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-generator/-SNAPSHOT/54e6fd5ca4e16402aa734a94d0650496f6611a/opendse-generator--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-generator/-SNAPSHOT/9d9a3f8f438d84c4e6fd075f81b9708781601206/opendse-generator--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-tutorial/-SNAPSHOT/21ff68ac3daef07d1866e331a7d586235788a996/opendse-tutorial--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-tutorial/-SNAPSHOT/c3f9208b5a827ff2c8c837543ecbabf13a0eb98d/opendse-tutorial--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-optimization/-SNAPSHOT/4b73dbb6637878b1014439fa37aa683d2160566e/opendse-optimization--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-optimization/-SNAPSHOT/37d667faa762ca4c5c422c530cd7a0d9ccb5b4a0/opendse-optimization--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-realtime/-SNAPSHOT/18308386f558b8eb3ffa2d7dd7bbad1a619372ce/opendse-realtime--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-realtime/-SNAPSHOT/512c12046d52ed56fa4e789c4b3cbd88052991e2/opendse-realtime--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-visualization/-SNAPSHOT/733cc80c0c2c3b9605f0d7d4cc0109571181bf8f/opendse-visualization--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-visualization/-SNAPSHOT/8054e80c01328901f42725a4b0795e6d845ebca1/opendse-visualization--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-io/-SNAPSHOT/a95441ebd4578e08b4d2af275b2990af00acc9ab/opendse-io--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-io/-SNAPSHOT/3dafce43292155f5ccb97b211d55f9278ffc3488/opendse-io--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-model/-SNAPSHOT/9d3dd79eda57bdc88b3342409e5db52249faac31/opendse-model--SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-model/-SNAPSHOT/439452549b53ac1490ab480c5487e2d8ad231cf0/opendse-model--SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/5.0.1/2c1282746b8307a049a95e2374c855378c9f29e2/guice-5.0.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/5.0.1/dae7556b441cada2b4f0a2314eb68e1ff423429/guice-5.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jung/jung-graph-impl/2.1.1/b204bb635887d2ada602b0e59686e9431ab33431/jung-graph-impl-2.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jung/jung-graph-impl/2.1.1/8293acb2ab4c00a3939cb99a8751e5d38a4299dc/jung-graph-impl-2.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jung/jung-visualization/2.1.1/609ff598dca52738a22c78b911496355aec4e797/jung-visualization-2.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jung/jung-visualization/2.1.1/40488654daea1f57e0790e40153be19a307943dd/jung-visualization-2.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jung/jung-algorithms/2.1.1/31d52d354e27780d55756e1919a0de9055cc72dc/jung-algorithms-2.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jung/jung-algorithms/2.1.1/632bd89a61a6c1ca7ed3505aca0765cff987096e/jung-algorithms-2.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jung/jung-api/2.1.1/a0c314f22644fb7258fe0d9cdc0d2a784bbd0f60/jung-api-2.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jung/jung-api/2.1.1/e47ee4efdfacce12f0af620747d9d0e44bf2eaa4/jung-api-2.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jmpi/jmpi-solver-gurobi/0.6/fcc404d0ebd81deefa4ac9e1822e1fc7af4eca7f/jmpi-solver-gurobi-0.6-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jmpi/jmpi-solver-gurobi/0.6/4f45c636daa60dceb96d269c92731ac3ff1ec724/jmpi-solver-gurobi-0.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jmpi/jmpi-main/0.6/8eb927c9f80c36a3c0fa7367ecc71805269db4ad/jmpi-main-0.6-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jmpi/jmpi-main/0.6/96c22fe07cd4555fd6cf8af427f2378d881e70d8/jmpi-main-0.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.java.dev.glazedlists/glazedlists_java15/1.9.1/bd78ffa5dea324b62f8524ed587ae29fcf59c496/glazedlists_java15-1.9.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.java.dev.glazedlists/glazedlists_java15/1.9.1/3ec96aff6b7addc9a2f0f82eca7147613142e45/glazedlists_java15-1.9.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/30.1-jre/8ae9687f4800d716821aad9784bd4769e9e566a4/guava-30.1-jre-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/30.1-jre/d0c3ce2311c9e36e73228da25a6e99b2ab826f/guava-30.1-jre.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1d064e61aad6c51cc77f9b59dc2cccc78e792f5a/failureaccess-1.0.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.5.0/acb4745ac343906cd39f9b3776db0e56f251ae6e/checker-qual-3.5.0-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.5.0/2f50520c8abea66fbd8d26e481d3aef5c673b510/checker-qual-3.5.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.3.4/950adf6dcd7361e3d1e544a6e13b818587f95d14/error_prone_annotations-2.3.4-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.3.4/dac170e4594de319655ffb62f41cbd6dbb5e601e/error_prone_annotations-2.3.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/d26c56180205cbb50447c3eca98ecb617cf9f58b/j2objc-annotations-1.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89/opendse/master-SNAPSHOT/ec15acefe1c19916f714159465dabe22a20d82ed/opendse-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/build/master-SNAPSHOT/70dabf620699c4ef6b8c41d01bfecb3f339b2827/build-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-encoding/master-SNAPSHOT/a9fcc8f6ddcbd58e3d21dd922c03792bf3577215/opendse-encoding-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-encoding/master-SNAPSHOT/ba90cc013c9737daf1c22ba2c16ddcb96ec04c76/opendse-encoding-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-tutorial/master-SNAPSHOT/b3b2e73b6ee27fce609cd5d9d81e741b82633e81/opendse-tutorial-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-tutorial/master-SNAPSHOT/78dc7d804a6836cb9f5fe1d97bfa6d1a9332425a/opendse-tutorial-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-optimization/master-SNAPSHOT/33797d0e3a1bf5c593e1208e8264c00a57e02871/opendse-optimization-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-optimization/master-SNAPSHOT/21a8525e04a82ed863c0bf49f9d4b7523fb65f34/opendse-optimization-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-realtime/master-SNAPSHOT/cd9680495cac1112c96f03354280f23619f5f232/opendse-realtime-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-realtime/master-SNAPSHOT/e9bf88244f07986c13febd40b00baa1c04d8d3f/opendse-realtime-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-visualization/master-SNAPSHOT/ca3b8087af0c326ef6cce072ee09dee9ba5ba689/opendse-visualization-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-visualization/master-SNAPSHOT/667cef0e1b4e8e0e732fbd65c959665e143bce1b/opendse-visualization-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89/opt4j/master-SNAPSHOT/68da8faf9d6076089b4556ea8e59f36fd6f13b96/opt4j-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/1b9adea7bbe0b251818f42fde0bd2988d7e5f20a/gson-2.8.6-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web/4.1.1/290d9ea847ae35fe7d679ef5a4d55ef6d8a16ad8/vertx-web-4.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web/4.1.1/ae6249173d0a55cad1ccc7b3520a7d41c02eca30/vertx-web-4.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-client/4.1.1/54799f75e628aac46465682f87bd01c096c9bb55/vertx-web-client-4.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-client/4.1.1/e2d96390397ca7428dcf15674427d469e18a7787/vertx-web-client-4.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-common/4.1.1/dcf910e452cc8cdeede5dc23c2188f4bdb6f99cd/vertx-web-common-4.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-common/4.1.1/92e665643ca2905e7044975ed1104b0e85ccecb4/vertx-web-common-4.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-auth-common/4.1.1/a579c8d733b6d0edf3dc9bf11a48248ba0d02cd2/vertx-auth-common-4.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-auth-common/4.1.1/d1be7b6b40293cfb3e3841c624d27223834fab5d/vertx-auth-common-4.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-bridge-common/4.1.1/3b4149f41b1501e35bf604f052454b54c67082f4/vertx-bridge-common-4.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-bridge-common/4.1.1/1f6ea767cf5f9956eb352bf33aae7fd25e4db29d/vertx-bridge-common-4.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/4.1.1/413e66b479a1fb643d26eee60232d66277a9b49c/vertx-core-4.1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/4.1.1/2015dbd9849c0cc7be99a6049011b876a6edd775/vertx-core-4.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-AFCL/AFCLCore-AFCLv1.1/master-SNAPSHOT/c26cbe090f6853aafaf8e95d25fd26c1bc05733e/AFCLCore-AFCLv1.1-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.Apollo-AFCL/AFCLCore-AFCLv1.1/master-SNAPSHOT/5ba039bf1abff98601c61ae4b1138b97c67556f3/AFCLCore-AFCLv1.1-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/cfd5385e0c5ed1c8a5dce57d86e79cf357153a64/logback-classic-1.2.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/7c4f3c474fb2c041d8028740440937705ebb473a/logback-classic-1.2.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-benchmarks/master-SNAPSHOT/c90a9f4f1f177c2f48446b9f384d28f315a213fd/opt4j-benchmarks-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-benchmarks/master-SNAPSHOT/472e8d63c6350f41453452f8575bb2797e26032/opt4j-benchmarks-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-tutorial/master-SNAPSHOT/91cebe46e162970cc8e1617a8082b25962837875/opt4j-tutorial-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-tutorial/master-SNAPSHOT/e71e26800b3cd9f4142317c7144b208999e04765/opt4j-tutorial-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-optimizers/master-SNAPSHOT/ba19526b903b7768fabb668102f8c82d3b617b83/opt4j-optimizers-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-optimizers/master-SNAPSHOT/8cf4410d8f88ff8a3a09b67c7e41d693fd0a12c3/opt4j-optimizers-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-operators/master-SNAPSHOT/76a7a5ed8df848b4600ab4792bf8bb59726a9b3f/opt4j-operators-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-operators/master-SNAPSHOT/8944c9035ddb736ed987af17862c29e860242606/opt4j-operators-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-satdecoding/master-SNAPSHOT/6df8dc8769fbbfefd5ee00c52d8909dded90d251/opt4j-satdecoding-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-satdecoding/master-SNAPSHOT/440d81710d3afdcbb7b82df7c75160b09ffdb5c5/opt4j-satdecoding-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-viewer/master-SNAPSHOT/69bf163b9c1b39107ae03f5bc64aa7a47dc8dc3f/opt4j-viewer-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-viewer/master-SNAPSHOT/95144f33abeb31ac2de2df37ddeb1f4cc254edc7/opt4j-viewer-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-core/master-SNAPSHOT/acaa1615f02b2ccc11c8ad9a1311c12f7a80b02f/opt4j-core-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/opt4j-core/master-SNAPSHOT/9e5a6f4b79bfd2565d4cdc7612fd976ed32f671d/opt4j-core-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport-httpclient5/3.2.11/e2efda7bf7e410db86602bff41a6a2018ec2960e/docker-java-transport-httpclient5-3.2.11-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport-httpclient5/3.2.11/88acd3561148dcd13c2222decee4110e9f1021dc/docker-java-transport-httpclient5-3.2.11.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-core/3.2.13/2f30dc2b158ee049f55a7be67e0d360261c6c902/docker-java-core-3.2.13-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-core/3.2.13/5a3af141f152d36aad519c7b3915251111592b60/docker-java-core-3.2.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.65.Final/f10efd556699a43ea8d678d6881e89ed5c75e7e1/netty-handler-proxy-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.65.Final/494094032106f27cb19f67a2ce88570d974438de/netty-handler-proxy-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.65.Final/594cc5dee40294f2e047368fc3da668f9217c380/netty-codec-http2-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.65.Final/b98d8554d43bbf379883005d043484bafd47cf3/netty-codec-http2-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.65.Final/4aa2ac51397e04fe32df0ea5fe8bf939334837f7/netty-codec-http-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.65.Final/fdf0886e1a615ab4ccea96830d7e663a4349180/netty-codec-http-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.1.65.Final/4ed970d941a4d06de88156513cf623bbd006b271/netty-resolver-dns-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.1.65.Final/e8bd69d605d08b2257c2ee17cb959cc54302484e/netty-resolver-dns-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.65.Final/e01c29025b6a4f7107ed3f91282a4306e4b82fe0/netty-handler-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.65.Final/28313a14ddd2fc312f75e8f21a5a12ffac4ef0b6/netty-handler-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.65.Final/111a45386c18b4aec8bbb76f8a6c2ffbb3b5cfaa/netty-codec-socks-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.65.Final/6a9107f2be2b2566adf491dc53fd34b0faf9d13d/netty-codec-socks-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.1.65.Final/e6fe76b3212fbe160107cba987586023e22cfb80/netty-codec-dns-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.1.65.Final/6aa72620a8cdd7c9414f45a0c9439fdcab060350/netty-codec-dns-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.65.Final/e1dca35e75f6763cbf121bd553e40a6d33e00492/netty-codec-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.65.Final/4a171d689d44df38d1b5b09cedee8584f858e702/netty-codec-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.65.Final/939bff71e13243eaac064b362c4a80f16fd72e2/netty-transport-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.65.Final/14c0c0356af101fb7f6e2ba77b3e68d7b21dc37b/netty-transport-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.65.Final/c48d8fae8f62d3f0a7b6f72d254b7ae86cf00c45/netty-buffer-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.65.Final/9654d248812add4aa36a6201fab88ac5f13028c3/netty-buffer-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.65.Final/303326f3b650122ee6f2a92b5f105e95b83c266f/netty-resolver-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.65.Final/561ff144d7ab425d74a2c54e8fb78865a6986063/netty-resolver-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.65.Final/f7f5c1f5096907eef0049ef3fa84ee4f430a1a4d/netty-common-4.1.65.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.65.Final/3e5ad41e33add0fad197942e38a509f868aa2c5a/netty-common-4.1.65.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.9.8/5333e788a93d55bc87628e16f799ce0d03ad7a59/jackson-dataformat-yaml-2.9.8-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.9.8/a1c807329eb0c75976aeb5961a506b3516ffeae3/jackson-dataformat-yaml-2.9.8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jsonSchema/2.9.8/34c3dfe2dd467798629c35c95cccf58752aedddc/jackson-module-jsonSchema-2.9.8-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jsonSchema/2.9.8/156ebce94303720a08cd954b88456000b409909e/jackson-module-jsonSchema-2.9.8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/json-schema-validator/2.2.6/91c4ae5af81d1e1dcf9142214eda2ef50e063c12/json-schema-validator-2.2.6-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/json-schema-validator/2.2.6/d6cc3cb8a6a8311f51f2ff21c7bede63d71e9129/json-schema-validator-2.2.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/json-schema-core/1.2.5/9b4bc9603e1f244274a3ec53f579a525dabf4919/json-schema-core-1.2.5-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/json-schema-core/1.2.5/7e19e29936a37a41f05999467c8b4a6f6308f238/json-schema-core-1.2.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/jackson-coreutils/1.8/2d63c31c1b1d73896b266d2ecb01417eb2e1a3a3/jackson-coreutils-1.8-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/jackson-coreutils/1.8/491a6e1130a180c153df9f2b7aabd7a700282c67/jackson-coreutils-1.8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.3/db734f2f42a95d2668b9f9de58d25cfc064e6e4a/jackson-databind-2.10.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.3/aae92628b5447fa25af79871ca98668da6edd439/jackson-databind-2.10.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.4/fe0a4493c4dbde5b3bb0316345b5b356659c3d25/jackson-core-2.11.4-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.4/593f7b18bab07a76767f181e2a2336135ce82cc4/jackson-core-2.11.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/Library/master-SNAPSHOT/8822f58906d247fa435c62cd5cc08411c2dd882b/Library-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opt4j/Library/master-SNAPSHOT/8822f58906d247fa435c62cd5cc08411c2dd882b/Library-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-generator/master-SNAPSHOT/873e9f86a0c941d87d247a1ea8004d8cbe7dd0b5/opendse-generator-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-generator/master-SNAPSHOT/bfb705c5c25c75aa7236e89cab0dc8a476ea3cfe/opendse-generator-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-io/master-SNAPSHOT/dfa68966acbe94d960d4a8bded5db0556854173/opendse-io-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-io/master-SNAPSHOT/4a2539d139eb0716b9700a13ad1275ba421fbcc4/opendse-io-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-model/master-SNAPSHOT/8157f5835a41b0b090439bdc18c29d154e1b83c7/opendse-model-master-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.FedorSmirnov89.opendse/opendse-model/master-SNAPSHOT/3f9efbdc78770f15e50c291ffbf1a358b4832795/opendse-model-master-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.23/1186bcf89d33080275bab74a0b0f495af5c812ef/snakeyaml-1.23-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.23/ec62d74fe50689c28c0ff5b35d3aebcaa8b5be68/snakeyaml-1.23.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-api/3.2.13/a9276a150f5b4328c297377867edec741c88d31a/docker-java-api-3.2.13-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-api/3.2.13/5817ef8f770cb7e740d590090bf352df9491f3c1/docker-java-api-3.2.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.10.3/a52bf9c42cb6a029577d0d701785a07554675713/jackson-annotations-2.10.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.10.3/f63b3b1da563767d04d2e4d3fc1ae0cdeffebe7/jackson-annotations-2.10.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/2566800dc841d9d2c5a0d34d807e45d4107dbbdf/commons-io-2.6-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/815893df5f31da2ece4040fe0a12fd44b577afaf/commons-io-2.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/3ebabe69eba0196af9ad3a814f723fb720b9101e/logback-core-1.2.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/864344400c3d4d92dfeb0a305dc87d953677c03c/logback-core-1.2.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.0.3/f683c0f4f755cc54f91ebd3e22f62ef86f611a0f/httpclient5-5.0.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.0.3/c4bc772689d4bb2d4128c5e4966f765a8a76e904/httpclient5-5.0.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/71a1fdefa224da50f1db6306ce609981e20186c9/slf4j-api-1.7.30-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/b5a4b6d16ab13e34a88fae84c35cd5d68cac922c/slf4j-api-1.7.30.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/uri-template/0.9/1e9f7f9fbe0d8395b708186f2ddc674271a940a7/uri-template-0.9-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/uri-template/0.9/ab1ad5804d3c7d640f21059085df5be340e97929/uri-template-0.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport/3.2.13/4fd8dc88ce1f7ce1667c55bcd23ed4a2d850486e/docker-java-transport-3.2.13-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport/3.2.13/e9d308d1822181a9d48c99739f5eca014ec89199/docker-java-transport-3.2.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.8.0/2401f953c4234333699632298c8119bcf5ea9194/jna-5.8.0-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.8.0/3551d8d827e54858214107541d3aff9c615cb615/jna-5.8.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/b3e0a269baa0d05b02f9b4447be463d25da8c097/commons-compress-1.21-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/198b882fdc2c72c89c63401d946f6ba46c3acea3/commons-lang3-3.12.0-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.64/5c87199786c06e1a53adf16b1998386bad52da89/bcpkix-jdk15on-1.64-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.64/3dac163e20110817d850d17e0444852a6d7d0bd7/bcpkix-jdk15on-1.64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.ow2.sat4j/org.ow2.sat4j.pb/2.3.5/a4b163f47d74649b03c629332a9954b94bc022bf/org.ow2.sat4j.pb-2.3.5-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.ow2.sat4j/org.ow2.sat4j.pb/2.3.5/ae46e580753b9d33c21dc2292ea987c34b9b79d7/org.ow2.sat4j.pb-2.3.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.ow2.sat4j/org.ow2.sat4j.core/2.3.5/279ee4bd993aa15f35543433f2226368c308c302/org.ow2.sat4j.core-2.3.5-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.ow2.sat4j/org.ow2.sat4j.core/2.3.5/5c446af569276907e35f122df9dedbb281e0a846/org.ow2.sat4j.core-2.3.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.ow2.sat4j/org.ow2.sat4j.core/2.3.5/279ee4bd993aa15f35543433f2226368c308c302/org.ow2.sat4j.core-2.3.5-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.ow2.sat4j/org.ow2.sat4j.core/2.3.5/6d229b3927ee278546b15a2350095b46aeb17da9/org.ow2.sat4j.core-2.3.5-tests.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.io7m.xom/xom/1.2.10/9fe08ddbc0987f1fad88ce86bc36e260b9cbee9d/xom-1.2.10-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.io7m.xom/xom/1.2.10/4165e25bef19aad134f6498cc277110b9bc5e52b/xom-1.2.10.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/6260e416ff273ee938b31b0a8e512a367b1ee500/commons-collections4-4.4-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/62ebe7544cb7164d87e0637a2a6a2bdc981395e8/commons-collections4-4.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/msg-simple/1.1/d2edffa8b1f911531725430bcbb2ac3870f19323/msg-simple-1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/msg-simple/1.1/f261263e13dd4cfa93cc6b83f1f58f619097a2c4/msg-simple-1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/btf/1.2/a38c09aeeee6a2fc168cb296ed75cfe014789cfc/btf-1.2-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.github.fge/btf/1.2/9e66651022eb86301b348d57e6f59459effc343b/btf-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.3/ecd8588d8ce0963eb443de31d5fea29e3205f160/joda-time-2.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.3/56498efd17752898cfcc3868c1b6211a07b12b8f/joda-time-2.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/6.2/9c7069041ade462048263e922941e3bdd553a1bd/libphonenumber-6.2-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/6.2/3ddc8255a39cc0505a6a34c56c9ec256833d2239/libphonenumber-6.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/javax.mail/mailapi/1.4.3/c84b0b9535d2ffe70b8323ba9a433e0a991fa411/mailapi-1.4.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/javax.mail/mailapi/1.4.3/124600e35d9031da50e5f67661ffa741541f8f6a/mailapi-1.4.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.6/9cd14a61d7aa7d554f251ef285a6f2c65caf7b65/jopt-simple-4.6-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.6/306816fb57cf94f108a43c95731b08934dcae15c/jopt-simple-4.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.0.2/37823a81d6c5808a7a18ee50a40e39e1d532a760/httpcore5-5.0.2-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.0.2/ea298cd1ce1d860747149fbb5f6236300219f378/httpcore5-5.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.13/226247b40160f2892fa4c7851b5b913d5d10912d/commons-codec-1.13-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.13/3f18e1aa31031d89db6f01ba05d501258ce69d2c/commons-codec-1.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.64/2881bfaf2c15e9e64b62c2a143db90db7a0d6035/bcprov-jdk15on-1.64-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.64/1467dac1b787b5ad2a18201c0c281df69882259e/bcprov-jdk15on-1.64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.8.0/393b9a589bc36ae0274f7ec59c5ed2016e4048d7/xercesImpl-2.8.0-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.8.0/cfd3ebe2f8034e660344f9108c3e2daf78c29cc3/xercesImpl-2.8.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/xalan/xalan/2.7.0/fe8fb14a14470c747d80c611852985ded830dab5/xalan-2.7.0-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/xalan/xalan/2.7.0/a33c0097f1c70b20fa7ded220ea317eb3500515e/xalan-2.7.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.mozilla/rhino/1.7R4/f0bd5ea08604d7a674606064649292a740f5cf1f/rhino-1.7R4-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.mozilla/rhino/1.7R4/e982f2136574b9a423186fbaeaaa98dc3e5a5288/rhino-1.7R4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/3697e9f67a2ed7ac5f589cff30f21173299440/activation-1.1-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/33987872a811fe4d4001ed494b07854822257f42/junit-4.13.2-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/3.4.4/a1fa175843dcb06b19a4c367ec3b5099d50cce09/mockito-core-3.4.4-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/3.4.4/6213e9c1b25a845167e27a51e6b6886b4306a920/mockito-core-3.4.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.10.13/2862e745ed6b27c5696d93e5fc1b8cc14abe88ef/byte-buddy-1.10.13-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.10.13/1426b15be5954246a9a72fd4baae1f42b9a4f45d/byte-buddy-1.10.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.10.13/f0819f2059e3c8ed2ad4e418a7b5ad6ff28b827f/byte-buddy-agent-1.10.13-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.10.13/f5b939963d13be46c101a3c12bf49aa23abb191/byte-buddy-agent-1.10.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/96614f514a1031296657bf0dde452dc15e42fcb8/objenesis-2.6-sources.jar" kind="lib" path="C:/Users/zamani/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/639033469776fd37c08358c6b92a4761feb2af4b/objenesis-2.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+</classpath>

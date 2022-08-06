@@ -1,0 +1,256 @@
+2022-08-06 13:55:03,766 DEBUG [pool-1-thread-1] i.v.c.l.LoggerFactory [?:?] Using io.vertx.core.logging.SLF4JLogDelegateFactory from Demo
+2022-08-06 13:55:04,549 INFO [pool-1-thread-1] a.u.d.e.c.v.VerticleManager [VerticleManager.java:62] Deployed 40 verticles. from Demo
+2022-08-06 13:55:04,660 INFO [pool-1-thread-1] a.u.d.e.c.c.Control [Control.java:63] Pausing enactment. from Demo
+2022-08-06 13:55:04,681 DEBUG [pool-1-thread-1] a.u.d.e.c.v.InputDataHandler [InputDataHandler.java:81] Availability of the input data modeled by node splited_workflow/s advertized. from Demo
+2022-08-06 13:55:04,683 DEBUG [pool-1-thread-1] a.u.d.e.c.v.InputDataHandler [InputDataHandler.java:65] Availability of constant node Constant/pattern advertized. from Demo
+2022-08-06 13:55:30,799 INFO [AWT-EventQueue-0] a.u.d.e.c.c.Control [Control.java:53] Resuming enactment. from Demo
+2022-08-06 13:55:30,806 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 47; Task splited is schedulable. from Demo
+2022-08-06 13:55:30,819 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 55; Task splited scheduled from Demo
+2022-08-06 13:55:30,819 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task splited from Demo
+2022-08-06 13:55:31,450 INFO [vert.x-eventloop-thread-1] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://amb2b06ii2.execute-api.us-east-1.amazonaws.com/splited triggerred. from Demo
+2022-08-06 13:55:33,718 INFO [vert.x-eventloop-thread-1] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://amb2b06ii2.execute-api.us-east-1.amazonaws.com/splited finished from Demo
+2022-08-06 13:55:33,721 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task splited. from Demo
+2022-08-06 13:55:33,726 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 55; Data on node splited/array available. from Demo
+2022-08-06 13:55:33,727 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 48; Task for_each_count--Distribution is schedulable. from Demo
+2022-08-06 13:55:33,728 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Distribution from Demo
+2022-08-06 13:55:33,728 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 56; Task for_each_count--Distribution scheduled from Demo
+2022-08-06 13:55:33,736 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Distribution. from Demo
+2022-08-06 13:55:33,746 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 47; Transform operation task for_each_count--Distribution completed. from Demo
+2022-08-06 13:55:33,778 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 56; Data on node for_each_count/interator_count__0 available. from Demo
+2022-08-06 13:55:33,779 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 56; Data on node for_each_count/interator_count__2 available. from Demo
+2022-08-06 13:55:33,780 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 56; Data on node for_each_count/interator_count__1 available. from Demo
+2022-08-06 13:55:33,780 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 50; Task count_of_pattern__0 is schedulable. from Demo
+2022-08-06 13:55:33,781 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 56; Data on node for_each_count/interator_count__4 available. from Demo
+2022-08-06 13:55:33,781 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 51; Task count_of_pattern__2 is schedulable. from Demo
+2022-08-06 13:55:33,782 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 57; Task count_of_pattern__0 scheduled from Demo
+2022-08-06 13:55:33,782 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__0 from Demo
+2022-08-06 13:55:33,782 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 56; Data on node for_each_count/interator_count__3 available. from Demo
+2022-08-06 13:55:33,783 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 52; Task count_of_pattern__1 is schedulable. from Demo
+2022-08-06 13:55:33,783 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 58; Task count_of_pattern__2 scheduled from Demo
+2022-08-06 13:55:33,783 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__2 from Demo
+2022-08-06 13:55:33,785 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 53; Task count_of_pattern__4 is schedulable. from Demo
+2022-08-06 13:55:33,786 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 59; Task count_of_pattern__1 scheduled from Demo
+2022-08-06 13:55:33,786 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__1 from Demo
+2022-08-06 13:55:33,787 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 54; Task count_of_pattern__3 is schedulable. from Demo
+2022-08-06 13:55:33,788 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__4 from Demo
+2022-08-06 13:55:33,788 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 60; Task count_of_pattern__4 scheduled from Demo
+2022-08-06 13:55:33,791 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 61; Task count_of_pattern__3 scheduled from Demo
+2022-08-06 13:55:33,792 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__3 from Demo
+2022-08-06 13:55:33,809 INFO [vert.x-eventloop-thread-3] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 13:55:33,817 INFO [vert.x-eventloop-thread-4] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 13:55:33,830 INFO [vert.x-eventloop-thread-5] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 13:55:33,831 INFO [vert.x-eventloop-thread-7] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 13:55:33,838 INFO [vert.x-eventloop-thread-6] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 13:55:35,884 INFO [vert.x-eventloop-thread-3] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 13:55:35,884 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__0. from Demo
+2022-08-06 13:55:35,884 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 57; Data on node count_of_pattern/count_of_pattern__0 available. from Demo
+2022-08-06 13:55:35,886 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 57; Data on node count_of_pattern/count_array__0 available. from Demo
+2022-08-06 13:55:36,049 INFO [vert.x-eventloop-thread-5] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 13:55:36,050 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__1. from Demo
+2022-08-06 13:55:36,050 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 58; Data on node count_of_pattern/count_of_pattern__1 available. from Demo
+2022-08-06 13:55:36,051 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 58; Data on node count_of_pattern/count_array__1 available. from Demo
+2022-08-06 13:55:36,108 INFO [vert.x-eventloop-thread-7] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 13:55:36,108 INFO [vert.x-eventloop-thread-6] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 13:55:36,109 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__4. from Demo
+2022-08-06 13:55:36,109 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__3. from Demo
+2022-08-06 13:55:36,111 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 59; Data on node count_of_pattern/count_of_pattern__4 available. from Demo
+2022-08-06 13:55:36,112 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 60; Data on node count_of_pattern/count_of_pattern__3 available. from Demo
+2022-08-06 13:55:36,112 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 59; Data on node count_of_pattern/count_array__4 available. from Demo
+2022-08-06 13:55:36,113 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 60; Data on node count_of_pattern/count_array__3 available. from Demo
+2022-08-06 13:55:36,900 INFO [vert.x-eventloop-thread-4] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 13:55:36,907 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__2. from Demo
+2022-08-06 13:55:36,907 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 61; Data on node count_of_pattern/count_of_pattern__2 available. from Demo
+2022-08-06 13:55:36,908 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 61; Data on node count_of_pattern/count_array__2 available. from Demo
+2022-08-06 13:55:36,909 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 47; Task for_each_count--Aggregation--count_of_pattern is schedulable. from Demo
+2022-08-06 13:55:36,909 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Aggregation--count_of_pattern from Demo
+2022-08-06 13:55:36,909 DEBUG [vert.x-eventloop-thread-0] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 44; Task for_each_count--Aggregation--count_of_pattern scheduled from Demo
+2022-08-06 13:55:36,910 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 49; Task for_each_count--Aggregation--count_array is schedulable. from Demo
+2022-08-06 13:55:36,910 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Aggregation--count_of_pattern. from Demo
+2022-08-06 13:55:36,910 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 55; Task for_each_count--Aggregation--count_array scheduled from Demo
+2022-08-06 13:55:36,910 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Aggregation--count_array from Demo
+2022-08-06 13:55:36,911 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Aggregation--count_array. from Demo
+2022-08-06 13:55:36,911 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 48; Transform operation task for_each_count--Aggregation--count_of_pattern completed. from Demo
+2022-08-06 13:55:36,943 DEBUG [vert.x-eventloop-thread-0] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 44; Data on node for_each_count/count_of_pattern available. from Demo
+2022-08-06 13:55:36,944 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 49; Transform operation task for_each_count--Aggregation--count_array completed. from Demo
+2022-08-06 13:55:36,972 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 55; Data on node for_each_count/count_array available. from Demo
+2022-08-06 13:55:36,974 INFO [vert.x-eventloop-thread-0] a.u.d.e.i.o.OutputDataPrinter [OutputDataPrinter.java:30] Workflow executed correctly. from Demo
+2022-08-06 13:55:36,976 INFO [vert.x-eventloop-thread-0] a.u.d.e.i.o.OutputDataPrinter [OutputDataPrinter.java:31] Enactment result: {"array":["one","one","one","two","one"],"count_of_pattern":[0,0,0,0,0]} from Demo
+2022-08-06 14:15:43,424 INFO [pool-1-thread-1] a.u.d.e.c.v.VerticleManager [VerticleManager.java:62] Deployed 40 verticles. from Demo
+2022-08-06 14:15:43,466 INFO [pool-1-thread-1] a.u.d.e.c.c.Control [Control.java:63] Pausing enactment. from Demo
+2022-08-06 14:15:43,468 DEBUG [pool-1-thread-1] a.u.d.e.c.v.InputDataHandler [InputDataHandler.java:81] Availability of the input data modeled by node splited_workflow/s advertized. from Demo
+2022-08-06 14:15:43,470 DEBUG [pool-1-thread-1] a.u.d.e.c.v.InputDataHandler [InputDataHandler.java:65] Availability of constant node Constant/pattern advertized. from Demo
+2022-08-06 14:15:54,693 INFO [AWT-EventQueue-0] a.u.d.e.c.c.Control [Control.java:53] Resuming enactment. from Demo
+2022-08-06 14:15:54,696 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 74; Task splited is schedulable. from Demo
+2022-08-06 14:15:54,696 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 82; Task splited scheduled from Demo
+2022-08-06 14:15:54,697 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task splited from Demo
+2022-08-06 14:15:54,713 INFO [vert.x-eventloop-thread-1] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://amb2b06ii2.execute-api.us-east-1.amazonaws.com/splited triggerred. from Demo
+2022-08-06 14:15:57,031 INFO [vert.x-eventloop-thread-1] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://amb2b06ii2.execute-api.us-east-1.amazonaws.com/splited finished from Demo
+2022-08-06 14:15:57,032 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task splited. from Demo
+2022-08-06 14:15:57,035 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 82; Data on node splited/array available. from Demo
+2022-08-06 14:15:57,036 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 76; Task for_each_count--Distribution is schedulable. from Demo
+2022-08-06 14:15:57,036 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 83; Task for_each_count--Distribution scheduled from Demo
+2022-08-06 14:15:57,036 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Distribution from Demo
+2022-08-06 14:15:57,039 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Distribution. from Demo
+2022-08-06 14:15:57,043 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 74; Transform operation task for_each_count--Distribution completed. from Demo
+2022-08-06 14:15:57,086 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 83; Data on node for_each_count/interator_count__0 available. from Demo
+2022-08-06 14:15:57,087 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 83; Data on node for_each_count/interator_count__2 available. from Demo
+2022-08-06 14:15:57,087 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 77; Task count_of_pattern__0 is schedulable. from Demo
+2022-08-06 14:15:57,088 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 83; Data on node for_each_count/interator_count__1 available. from Demo
+2022-08-06 14:15:57,089 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 83; Data on node for_each_count/interator_count__4 available. from Demo
+2022-08-06 14:15:57,089 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 78; Task count_of_pattern__2 is schedulable. from Demo
+2022-08-06 14:15:57,089 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 84; Task count_of_pattern__0 scheduled from Demo
+2022-08-06 14:15:57,089 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__0 from Demo
+2022-08-06 14:15:57,090 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 83; Data on node for_each_count/interator_count__3 available. from Demo
+2022-08-06 14:15:57,091 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 79; Task count_of_pattern__1 is schedulable. from Demo
+2022-08-06 14:15:57,091 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__2 from Demo
+2022-08-06 14:15:57,091 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 85; Task count_of_pattern__2 scheduled from Demo
+2022-08-06 14:15:57,093 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 80; Task count_of_pattern__4 is schedulable. from Demo
+2022-08-06 14:15:57,093 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__1 from Demo
+2022-08-06 14:15:57,093 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 86; Task count_of_pattern__1 scheduled from Demo
+2022-08-06 14:15:57,095 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 81; Task count_of_pattern__3 is schedulable. from Demo
+2022-08-06 14:15:57,097 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__4 from Demo
+2022-08-06 14:15:57,095 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 87; Task count_of_pattern__4 scheduled from Demo
+2022-08-06 14:15:57,105 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__3 from Demo
+2022-08-06 14:15:57,104 DEBUG [vert.x-eventloop-thread-0] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 72; Task count_of_pattern__3 scheduled from Demo
+2022-08-06 14:15:57,120 INFO [vert.x-eventloop-thread-4] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:15:57,121 INFO [vert.x-eventloop-thread-3] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:15:57,130 INFO [vert.x-eventloop-thread-5] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:15:57,142 INFO [vert.x-eventloop-thread-7] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:15:57,142 INFO [vert.x-eventloop-thread-6] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:15:58,934 INFO [vert.x-eventloop-thread-7] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:15:58,934 INFO [vert.x-eventloop-thread-4] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:15:58,934 INFO [vert.x-eventloop-thread-5] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:15:58,936 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__2. from Demo
+2022-08-06 14:15:58,936 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__1. from Demo
+2022-08-06 14:15:58,936 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__3. from Demo
+2022-08-06 14:15:58,938 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 84; Data on node count_of_pattern/count_of_pattern__2 available. from Demo
+2022-08-06 14:15:58,938 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 85; Data on node count_of_pattern/count_of_pattern__1 available. from Demo
+2022-08-06 14:15:58,939 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 86; Data on node count_of_pattern/count_of_pattern__3 available. from Demo
+2022-08-06 14:15:58,939 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 84; Data on node count_of_pattern/count_array__2 available. from Demo
+2022-08-06 14:15:58,939 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 85; Data on node count_of_pattern/count_array__1 available. from Demo
+2022-08-06 14:15:58,940 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 86; Data on node count_of_pattern/count_array__3 available. from Demo
+2022-08-06 14:15:58,975 INFO [vert.x-eventloop-thread-3] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:15:58,975 INFO [vert.x-eventloop-thread-6] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:15:58,975 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__0. from Demo
+2022-08-06 14:15:58,976 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__4. from Demo
+2022-08-06 14:15:58,976 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 87; Data on node count_of_pattern/count_of_pattern__0 available. from Demo
+2022-08-06 14:15:58,976 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 88; Data on node count_of_pattern/count_of_pattern__4 available. from Demo
+2022-08-06 14:15:58,977 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 87; Data on node count_of_pattern/count_array__0 available. from Demo
+2022-08-06 14:15:58,977 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 88; Data on node count_of_pattern/count_array__4 available. from Demo
+2022-08-06 14:15:58,977 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 81; Task for_each_count--Aggregation--count_of_pattern is schedulable. from Demo
+2022-08-06 14:15:58,978 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 88; Task for_each_count--Aggregation--count_of_pattern scheduled from Demo
+2022-08-06 14:15:58,978 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Aggregation--count_of_pattern from Demo
+2022-08-06 14:15:58,978 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 75; Task for_each_count--Aggregation--count_array is schedulable. from Demo
+2022-08-06 14:15:58,978 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Aggregation--count_of_pattern. from Demo
+2022-08-06 14:15:58,980 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Aggregation--count_array from Demo
+2022-08-06 14:15:58,980 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 82; Task for_each_count--Aggregation--count_array scheduled from Demo
+2022-08-06 14:15:58,980 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 75; Transform operation task for_each_count--Aggregation--count_of_pattern completed. from Demo
+2022-08-06 14:15:58,980 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Aggregation--count_array. from Demo
+2022-08-06 14:15:59,010 DEBUG [vert.x-eventloop-thread-0] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 72; Data on node for_each_count/count_of_pattern available. from Demo
+2022-08-06 14:15:59,010 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 76; Transform operation task for_each_count--Aggregation--count_array completed. from Demo
+2022-08-06 14:15:59,026 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 82; Data on node for_each_count/count_array available. from Demo
+2022-08-06 14:15:59,027 INFO [vert.x-eventloop-thread-0] a.u.d.e.i.o.OutputDataPrinter [OutputDataPrinter.java:30] Workflow executed correctly. from Demo
+2022-08-06 14:15:59,028 INFO [vert.x-eventloop-thread-0] a.u.d.e.i.o.OutputDataPrinter [OutputDataPrinter.java:31] Enactment result: {"array":["one","one","one","two","one,six.one,two"],"count_of_pattern":[0,0,0,0,0]} from Demo
+2022-08-06 14:18:15,397 INFO [pool-1-thread-1] a.u.d.e.c.v.VerticleManager [VerticleManager.java:62] Deployed 40 verticles. from Demo
+2022-08-06 14:18:15,437 INFO [pool-1-thread-1] a.u.d.e.c.c.Control [Control.java:63] Pausing enactment. from Demo
+2022-08-06 14:18:15,439 DEBUG [pool-1-thread-1] a.u.d.e.c.v.InputDataHandler [InputDataHandler.java:81] Availability of the input data modeled by node splited_workflow/s advertized. from Demo
+2022-08-06 14:18:15,439 DEBUG [pool-1-thread-1] a.u.d.e.c.v.InputDataHandler [InputDataHandler.java:65] Availability of constant node Constant/pattern advertized. from Demo
+2022-08-06 14:18:19,062 INFO [AWT-EventQueue-0] a.u.d.e.c.c.Control [Control.java:53] Resuming enactment. from Demo
+2022-08-06 14:18:19,064 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 100; Task splited is schedulable. from Demo
+2022-08-06 14:18:19,065 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 108; Task splited scheduled from Demo
+2022-08-06 14:18:19,066 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task splited from Demo
+2022-08-06 14:18:19,083 INFO [vert.x-eventloop-thread-1] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://amb2b06ii2.execute-api.us-east-1.amazonaws.com/splited triggerred. from Demo
+2022-08-06 14:18:20,953 INFO [vert.x-eventloop-thread-1] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://amb2b06ii2.execute-api.us-east-1.amazonaws.com/splited finished from Demo
+2022-08-06 14:18:20,953 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task splited. from Demo
+2022-08-06 14:18:20,954 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 108; Data on node splited/array available. from Demo
+2022-08-06 14:18:20,954 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 102; Task for_each_count--Distribution is schedulable. from Demo
+2022-08-06 14:18:20,955 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 109; Task for_each_count--Distribution scheduled from Demo
+2022-08-06 14:18:20,955 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Distribution from Demo
+2022-08-06 14:18:20,955 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Distribution. from Demo
+2022-08-06 14:18:20,957 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 100; Transform operation task for_each_count--Distribution completed. from Demo
+2022-08-06 14:18:20,975 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node for_each_count/interator_count__0 available. from Demo
+2022-08-06 14:18:20,976 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node for_each_count/interator_count__2 available. from Demo
+2022-08-06 14:18:20,976 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 103; Task count_of_pattern__0 is schedulable. from Demo
+2022-08-06 14:18:20,978 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node for_each_count/interator_count__1 available. from Demo
+2022-08-06 14:18:20,979 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 104; Task count_of_pattern__2 is schedulable. from Demo
+2022-08-06 14:18:20,979 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__0 from Demo
+2022-08-06 14:18:20,979 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 110; Task count_of_pattern__0 scheduled from Demo
+2022-08-06 14:18:20,979 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node for_each_count/interator_count__4 available. from Demo
+2022-08-06 14:18:20,980 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 105; Task count_of_pattern__1 is schedulable. from Demo
+2022-08-06 14:18:20,980 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__2 from Demo
+2022-08-06 14:18:20,980 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node for_each_count/interator_count__3 available. from Demo
+2022-08-06 14:18:20,980 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 111; Task count_of_pattern__2 scheduled from Demo
+2022-08-06 14:18:20,981 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 106; Task count_of_pattern__4 is schedulable. from Demo
+2022-08-06 14:18:20,981 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node for_each_count/interator_count__6 available. from Demo
+2022-08-06 14:18:20,982 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 112; Task count_of_pattern__1 scheduled from Demo
+2022-08-06 14:18:20,982 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__1 from Demo
+2022-08-06 14:18:20,983 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node for_each_count/interator_count__5 available. from Demo
+2022-08-06 14:18:20,982 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 107; Task count_of_pattern__3 is schedulable. from Demo
+2022-08-06 14:18:20,983 DEBUG [vert.x-eventloop-thread-0] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 98; Task count_of_pattern__4 scheduled from Demo
+2022-08-06 14:18:20,983 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node for_each_count/interator_count__7 available. from Demo
+2022-08-06 14:18:20,986 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__4 from Demo
+2022-08-06 14:18:20,994 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__3 from Demo
+2022-08-06 14:18:20,994 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 100; Task count_of_pattern__6 is schedulable. from Demo
+2022-08-06 14:18:20,994 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 113; Task count_of_pattern__3 scheduled from Demo
+2022-08-06 14:18:20,999 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 101; Task count_of_pattern__5 is schedulable. from Demo
+2022-08-06 14:18:20,999 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 114; Task count_of_pattern__6 scheduled from Demo
+2022-08-06 14:18:21,000 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__6 from Demo
+2022-08-06 14:18:21,003 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 108; Task count_of_pattern__5 scheduled from Demo
+2022-08-06 14:18:21,003 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__5 from Demo
+2022-08-06 14:18:21,013 INFO [vert.x-eventloop-thread-3] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:18:21,013 INFO [vert.x-eventloop-thread-4] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:18:21,017 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 102; Task count_of_pattern__7 is schedulable. from Demo
+2022-08-06 14:18:21,018 INFO [vert.x-eventloop-thread-6] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:18:21,019 INFO [vert.x-eventloop-thread-7] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:18:21,020 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 109; Task count_of_pattern__7 scheduled from Demo
+2022-08-06 14:18:21,020 INFO [vert.x-eventloop-thread-5] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:18:21,020 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task count_of_pattern__7 from Demo
+2022-08-06 14:18:21,021 INFO [vert.x-eventloop-thread-1] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:18:21,021 INFO [vert.x-eventloop-thread-8] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:18:21,025 INFO [vert.x-eventloop-thread-2] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:61] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern triggerred. from Demo
+2022-08-06 14:18:23,205 INFO [vert.x-eventloop-thread-5] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:18:23,205 INFO [vert.x-eventloop-thread-1] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:18:23,207 DEBUG [vert.x-eventloop-thread-5] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__1. from Demo
+2022-08-06 14:18:23,207 DEBUG [vert.x-eventloop-thread-1] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__5. from Demo
+2022-08-06 14:18:23,208 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 110; Data on node count_of_pattern/count_of_pattern__1 available. from Demo
+2022-08-06 14:18:23,209 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 112; Data on node count_of_pattern/count_array__5 available. from Demo
+2022-08-06 14:18:23,210 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 110; Data on node count_of_pattern/count_array__1 available. from Demo
+2022-08-06 14:18:23,210 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 112; Data on node count_of_pattern/count_of_pattern__5 available. from Demo
+2022-08-06 14:18:23,281 INFO [vert.x-eventloop-thread-4] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:18:23,283 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__2. from Demo
+2022-08-06 14:18:23,283 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 113; Data on node count_of_pattern/count_of_pattern__2 available. from Demo
+2022-08-06 14:18:23,285 DEBUG [vert.x-eventloop-thread-14] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 113; Data on node count_of_pattern/count_array__2 available. from Demo
+2022-08-06 14:18:23,328 INFO [vert.x-eventloop-thread-3] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:18:23,328 INFO [vert.x-eventloop-thread-8] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:18:23,328 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__0. from Demo
+2022-08-06 14:18:23,328 DEBUG [vert.x-eventloop-thread-8] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__6. from Demo
+2022-08-06 14:18:23,331 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 111; Data on node count_of_pattern/count_of_pattern__0 available. from Demo
+2022-08-06 14:18:23,331 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 114; Data on node count_of_pattern/count_of_pattern__6 available. from Demo
+2022-08-06 14:18:23,332 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 111; Data on node count_of_pattern/count_array__0 available. from Demo
+2022-08-06 14:18:23,332 DEBUG [vert.x-eventloop-thread-15] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 114; Data on node count_of_pattern/count_array__6 available. from Demo
+2022-08-06 14:18:23,608 INFO [vert.x-eventloop-thread-7] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:18:23,610 DEBUG [vert.x-eventloop-thread-7] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__3. from Demo
+2022-08-06 14:18:23,610 DEBUG [vert.x-eventloop-thread-0] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 98; Data on node count_of_pattern/count_of_pattern__3 available. from Demo
+2022-08-06 14:18:23,610 DEBUG [vert.x-eventloop-thread-0] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 98; Data on node count_of_pattern/count_array__3 available. from Demo
+2022-08-06 14:18:24,624 INFO [vert.x-eventloop-thread-6] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:18:24,624 DEBUG [vert.x-eventloop-thread-6] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__4. from Demo
+2022-08-06 14:18:24,625 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 108; Data on node count_of_pattern/count_of_pattern__4 available. from Demo
+2022-08-06 14:18:24,625 DEBUG [vert.x-eventloop-thread-9] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 108; Data on node count_of_pattern/count_array__4 available. from Demo
+2022-08-06 14:18:26,417 INFO [vert.x-eventloop-thread-2] a.u.d.e.e.s.ServerlessFunction [ServerlessFunction.java:63] Serverless function https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern finished from Demo
+2022-08-06 14:18:26,418 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task count_of_pattern__7. from Demo
+2022-08-06 14:18:26,418 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node count_of_pattern/count_of_pattern__7 available. from Demo
+2022-08-06 14:18:26,421 DEBUG [vert.x-eventloop-thread-10] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 109; Data on node count_of_pattern/count_array__7 available. from Demo
+2022-08-06 14:18:26,421 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 101; Task for_each_count--Aggregation--count_of_pattern is schedulable. from Demo
+2022-08-06 14:18:26,423 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 110; Task for_each_count--Aggregation--count_of_pattern scheduled from Demo
+2022-08-06 14:18:26,424 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.t.WorkerTransmission [WorkerTransmission.java:104] Thread 102; Task for_each_count--Aggregation--count_array is schedulable. from Demo
+2022-08-06 14:18:26,425 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Aggregation--count_of_pattern from Demo
+2022-08-06 14:18:26,426 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:52] Enacting Task for_each_count--Aggregation--count_array from Demo
+2022-08-06 14:18:26,426 DEBUG [vert.x-eventloop-thread-12] a.u.d.e.c.s.WorkerScheduling [WorkerScheduling.java:138] Thread 111; Task for_each_count--Aggregation--count_array scheduled from Demo
+2022-08-06 14:18:26,426 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Aggregation--count_of_pattern. from Demo
+2022-08-06 14:18:26,427 DEBUG [vert.x-eventloop-thread-4] a.u.d.e.c.e.WorkerEnactment [WorkerEnactment.java:73] Enactment finished for task for_each_count--Aggregation--count_array. from Demo
+2022-08-06 14:18:26,428 DEBUG [vert.x-eventloop-thread-2] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 101; Transform operation task for_each_count--Aggregation--count_of_pattern completed. from Demo
+2022-08-06 14:18:26,468 DEBUG [vert.x-eventloop-thread-3] a.u.d.e.c.t.WorkerTransformation [WorkerTransformation.java:71] Thread 102; Transform operation task for_each_count--Aggregation--count_array completed. from Demo
+2022-08-06 14:18:26,468 DEBUG [vert.x-eventloop-thread-11] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 110; Data on node for_each_count/count_of_pattern available. from Demo
+2022-08-06 14:18:26,485 DEBUG [vert.x-eventloop-thread-13] a.u.d.e.c.e.WorkerExtraction [WorkerExtraction.java:84] Thread 112; Data on node for_each_count/count_array available. from Demo
+2022-08-06 14:18:26,487 INFO [vert.x-eventloop-thread-0] a.u.d.e.i.o.OutputDataPrinter [OutputDataPrinter.java:30] Workflow executed correctly. from Demo
+2022-08-06 14:18:26,488 INFO [vert.x-eventloop-thread-0] a.u.d.e.i.o.OutputDataPrinter [OutputDataPrinter.java:31] Enactment result: {"array":["one","one","one","two","one","six","one","two"],"count_of_pattern":[0,0,0,0,0,0,0,0]} from Demo

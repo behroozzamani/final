@@ -1,0 +1,13 @@
+[
+    {
+        "functionType": "splited",
+        "resources": [
+            {
+                "type": "Serverless",
+                "properties": {
+                    "Uri": "https://amb2b06ii2.execute-api.us-east-1.amazonaws.com/splited"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+---
+name: "splited_workflow"
+dataIns:
+- name: "s"
+  type: "string"
+  source: "s"
+workflowBody:
+- function:
+    name: "splited"
+    type: "splited"
+    dataIns:
+    - name: "original_string"
+      type: "string"
+      source: "splited_workflow/s"
+    dataOuts:
+    - name: "array"
+      type: "collection"
+dataOuts:
+- name: "array"
+  type: "collection"
+  source: "splited/array"

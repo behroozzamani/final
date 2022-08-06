@@ -1,0 +1,35 @@
+[
+	{
+		"functionType": "splited",
+		"resources": [
+			{
+				"type": "Local",
+				"properties": {
+					"Image": "radvin1356/splited"
+				}
+			}
+		]
+	},
+	{
+		"functionType": "count_of_pattern",
+		"resources": [
+			{
+				"type": "Local",
+				"properties": {
+					"Image": "radvin1356/count_of_pattern"
+				}
+			}
+		]
+	},
+	{
+		"functionType": "remove",
+		"resources": [
+			{
+				"type": "Local",
+				"properties": {
+					"Image": "radvin1356/remove"
+				}
+			}
+		]
+	}
+]

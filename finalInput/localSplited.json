@@ -1,0 +1,13 @@
+[
+	{
+		"functionType": "splited",
+		"resources": [
+			{
+				"type": "Local",
+				"properties": {
+					"Image": "radvin1356/splited"
+				}
+			}
+		]
+	}
+]
