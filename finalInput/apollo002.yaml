@@ -31,7 +31,7 @@ workflowBody:
           type: "collection"
           source: "for_each_count/interator_count"
         - name: "pattern"
-          type: "number"
+          type: "string"
           source: "pattern"
         dataOuts:
         - name: "count_array"

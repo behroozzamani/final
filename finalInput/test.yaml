@@ -1,5 +1,5 @@
 ---
-name: "splited_workflow"
+name: "final"
 dataIns:
 - name: "s"
   type: "string"
@@ -11,7 +11,7 @@ workflowBody:
     dataIns:
     - name: "original_string"
       type: "string"
-      source: "splited_workflow/s"
+      source: "final/s"
     dataOuts:
     - name: "array"
       type: "collection"
@@ -31,7 +31,7 @@ workflowBody:
           type: "collection"
           source: "for_each_count/interator_count"
         - name: "pattern"
-          type: "number"
+          type: "string"
           source: "pattern"
         dataOuts:
         - name: "count_array"
@@ -39,16 +39,16 @@ workflowBody:
         - name: "count_of_pattern"
           type: "number"
     dataOuts:
-    - name: "count_array"
+    - name: "result50"
       type: "collection"
       source: "count_of_pattern/count_array"
-    - name: "count_of_pattern"
+    - name: "result51"
       type: "collection"
       source: "count_of_pattern/count_of_pattern"
 dataOuts:
-- name: "array"
+- name: "result100"
   type: "collection"
-  source: "for_each_count/count_array"
-- name: "count_of_pattern"
+  source: "for_each_count/result50"
+- name: "result101"
   type: "collection"
-  source: "for_each_count/count_of_pattern"
+  source: "for_each_count/result51"
