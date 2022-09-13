@@ -1,0 +1,13 @@
+[
+    {
+        "functionType": "count_of_pattern",
+        "resources": [
+            {
+                "type": "Serverless",
+                "properties": {
+                    "Uri": "https://sxgp01wc88.execute-api.us-east-1.amazonaws.com/count_of_pattern"
+                }
+            }
+        ]
+    }
+]

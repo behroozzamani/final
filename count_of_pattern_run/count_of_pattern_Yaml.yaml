@@ -1,0 +1,32 @@
+---
+name: "apollo_count_of_pattern"
+dataIns:
+- name: "array"
+  type: "string"
+  source: "array"
+- name: "pattern"
+  type: "string"
+  source: "pattern"
+workflowBody:
+- function:
+    name: "count_of_pattern"
+    type: "count_of_pattern"
+    dataIns:
+    - name: "string_array"
+      type: "string"
+      source: "apollo_count_of_pattern/array"
+    - name: "pattern"
+      type: "string"
+      source: "apollo_count_of_pattern/pattern"
+    dataOuts:
+    - name: "count_array"
+      type: "collection"
+    - name: "count_of_pattern"
+      type: "number"
+dataOuts:
+- name: "count_array"
+  type: "collection"
+  source: "count_of_pattern/count_array"
+- name: "count_of_pattern"
+  type: "number"
+  source: "count_of_pattern/count_of_pattern"
