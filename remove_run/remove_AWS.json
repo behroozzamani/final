@@ -1,0 +1,13 @@
+[
+    {
+        "functionType": "remove",
+        "resources": [
+            {
+                "type": "Serverless",
+                "properties": {
+                    "Uri": "https://4rsf9d6cjh.execute-api.us-east-1.amazonaws.com/remove"
+                }
+            }
+        ]
+    }
+]

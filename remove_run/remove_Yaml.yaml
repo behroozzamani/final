@@ -1,0 +1,39 @@
+---
+name: "apollo_remove"
+dataIns:
+- name: "array"
+  type: "collection"
+  source: "array"
+- name: "p"
+  type: "string"
+  source: "p"
+- name: "m"
+  type: "number"
+  source: "m"
+- name: "count"
+  type: "number"
+  source: "count"
+workflowBody:
+- function:
+    name: "remove"
+    type: "remove"
+    dataIns:
+    - name: "string_array"
+      type: "collection"
+      source: "apollo_remove/array"
+    - name: "pattern"
+      type: "string"
+      source: "apollo_remove/p"
+    - name: "m"
+      type: "number"
+      source: "apollo_remove/m"
+    - name: "count_of_pattern"
+      type: "number"
+      source: "apollo_remove/count"
+    dataOuts:
+    - name: "final_array"
+      type: "collection"
+dataOuts:
+- name: "remove_output"
+  type: "collection"
+  source: "remove/final_array"
