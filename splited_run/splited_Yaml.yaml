@@ -1,0 +1,21 @@
+---
+name: "apollo_splited"
+dataIns:
+- name: "s"
+  type: "string"
+  source: "s"
+workflowBody:
+- function:
+    name: "splited"
+    type: "splited"
+    dataIns:
+    - name: "original_string"
+      type: "string"
+      source: "apollo_splited/s"
+    dataOuts:
+    - name: "array"
+      type: "collection"
+dataOuts:
+- name: "splited_output"
+  type: "collection"
+  source: "splited/array"
